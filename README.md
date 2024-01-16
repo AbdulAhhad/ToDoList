@@ -1,9 +1,5 @@
 # Todo list app | Test task
 
-## App view
-
-<img src="./assets/todo_list.gif" width="305" height="650">
-
 ## Implementation of the project
 
 - The project was compiled with [npx create-expo-app Todo_list](https://reactnative.dev/docs/environment-setup).
